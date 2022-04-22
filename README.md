@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=goodlucklan&show_icons=true&locale=en&layout=compact" alt="goodlucklan" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=llopez594&show_icons=true&locale=en&layout=compact" alt="goodlucklan" /> </p>
 <!--
 **llopez594/llopez594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
