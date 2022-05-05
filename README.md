@@ -38,7 +38,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://pngset.com/images/new-go-logo-issue-257-pkiefvscode-materialicontheme-golang-logo-svg-text-symbol-trademark-alphabet-transparent-png-2986450.png" alt="go" width="40" height="40"/> </a> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/go-logo-white.svg" alt="go" width="40" height="40"/> </a> 
 
 </p>
 
