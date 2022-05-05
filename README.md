@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Luis López</h1>
 <h3 align="center">Desarrollador Web/Móvil</h3>
 
-- 🔭 Actualmente trabajo en un [ Sistema de control de cobranzas de Socios y Accionistas  ](https://https://rsistems.tech/)
+- 🔭 Actualmente trabajo en un [ Sistema de control de cobranzas de Socios y Accionistas  ](https://rsistems.tech/)
 
 - 🌱 Actualmente estoy aprendiendo **TypeScript, NodeJS, ReactJS, React Native**
 
