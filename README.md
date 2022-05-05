@@ -13,11 +13,13 @@
 
 - 📄 Conoce mis experiencias en [ https://www.linkedin.com/in/llopez594/ ](https://www.linkedin.com/in/llopez594/)
 
-- ⚡ Dato curioso **He trabajo el 80% de mis proyectos en integracion a Sistemas Administrativos**
+- ⚡ Dato curioso **He trabajo el 80% de mis proyectos en integración a Sistemas Administrativos Saint Enterprise y Mantis Technogies**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="izquierda">
-<a href="https://linkedin.com/in/llopez594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisromanpardo" height="30" width="40" /></a>
+  <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="llopez594" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ve.linkedin.com/in/llopez594?trk=profile-badge">Luis J. L.</a></div>
+              
+<a href="https://linkedin.com/in/llopez594" target="blank"><img align="center" src="https://raw.githubusercontent.com/llopez594/github-profile-readme -generator/master/src/images/icons/Social/linked-in-alt.svg" alt="llopez594" height="30" width="40" /></a>
 <a href="https://fb.com/luis.lopz3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis enrique roman pardo" height="30" width="40" /></a>
 <a href="https://instagram.com/luis.lopz3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="goodlucklan" height="30" width="40" /></a>
 </p>
